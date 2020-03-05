@@ -1,0 +1,34 @@
+{
+  "name": "javascript-drag-import",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "Auto import by dragging files from tree-view to your active pane without typing. Supported file types are: JS , JSX , TS , TSX , CSS , SCSS , SASS and LESS.",
+  "keywords": [
+    "javascript",
+    "typescript",
+    "angular",
+    "react",
+    "import",
+    "autoimport",
+    "fastimport"
+  ],
+  "homepage": "https://github.com/ElecTreeFrying/javascript-drag-import#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElecTreeFrying/javascript-drag-import.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ElecTreeFrying/javascript-drag-import/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "deprecated": false,
+  "bundleDependencies": false,
+  "dependencies": {
+    "camelcase": "^5.3.1",
+    "relative": "^3.0.2",
+    "sub-atom": "^1.1.0"
+  }
+}
