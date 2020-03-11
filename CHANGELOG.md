@@ -1,4 +1,9 @@
 
+## 0.1.6 - "Connor" (2020-3-11)
+
+### Bug Fixes
+* uncaught error
+
 ## 0.1.5 - "Ashley" (2020-3-11)
 
 ### Bug Fixes
