@@ -1,5 +1,10 @@
 
-## 0.1.3 - "Brenda" (2020-3-9)
+## 0.1.5 - "Ashley" (2020-3-11)
+
+### Bug Fixes
+* Uncaught ReferenceError: path is not defined.
+
+## 0.1.4 - "Brenda" (2020-3-9)
 
 ### Bug Fixes
 * Replaced `querySelector` with `atom.workspace.paneContainers.left.refs.wrapperElement`, closes ([#1](https://github.com/ElecTreeFrying/javascript-drag-import/issues/1))
