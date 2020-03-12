@@ -1,4 +1,12 @@
 
+## 0.1.7-0.1.8 - "Man" (2020-3-12)
+
+### Bug Fixes
+* add export name not working
+
+### Others
+* I justtried `apm unpublish` and I failed 😛
+
 ## 0.1.6 - "Connor" (2020-3-11)
 
 ### Bug Fixes
