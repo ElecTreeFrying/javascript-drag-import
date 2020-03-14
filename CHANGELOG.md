@@ -1,4 +1,9 @@
 
+## v0.1.12 (2020-3-14)
+
+### Added
+* .gif sample usage in `README.md`
+
 ## v0.1.11 (2020-3-14)
 
 ### Changes

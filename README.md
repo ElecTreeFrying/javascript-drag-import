@@ -5,6 +5,8 @@ Drag and drop import [package] for [Atom]. Auto import by dragging supported fil
 
 _* This package also supports drag and drop imports for CSS, SASS/SCSS and LESS._
 
+![drag and drop sample usage](https://bit.ly/3aV98yI "drag and drop sample usage")
+
 
 ### Supported file types:
 *  JS , JSX , TS , TSX , CSS , SCSS , SASS , LESS.
