@@ -1,4 +1,10 @@
 
+## v0.1.10 (2020-3-14)
+
+### Changes
+* optimized code
+* replaced success on add export name with regular success.
+
 ## v0.1.9 (2020-3-11)
 
 ### Bug Fixes
