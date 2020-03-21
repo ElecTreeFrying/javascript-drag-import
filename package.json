@@ -1,7 +1,7 @@
 {
   "name": "javascript-drag-import",
   "main": "./lib/main",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "Auto import by dragging files from tree-view to your active pane without typing. Supported file types are: JS , JSX , TS , TSX , CSS , SCSS , SASS and LESS.",
   "keywords": [
     "javascript",
